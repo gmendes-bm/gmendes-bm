@@ -4,6 +4,7 @@ I am currently in my third year of a Bachelor's in Engineering Physics at Instit
 * ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com)
 
 <br><br>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmendes-bm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmendes.bm@gmail.com) 

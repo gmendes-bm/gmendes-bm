@@ -1,9 +1,15 @@
 # About Me:
-I am currently in my third year of a Bachelor's in Engineering Physics at Instituto Superior Técnico in Lisbon. My academic journey has allowed me to develop technical skills such as programming, Robot Operating System (ROS), and Git, while deepening my understanding of fundamental physics and engineering principles.<br><br>Before joining Instituto Superior Técnico, I graduated with honors from Colégio Vasco da Gama, where I consistently ranked among the top students. I was recognized with the Merit Diploma, Excellence Board (Diploma de Mérito, Quadro de Excelência) for my exceptional academic performance, maintaining a GPA of 19.5/20. My high school years provided me with a strong academic foundation in mathematics, physics, and engineering, as well as valuable experiences in leadership and teamwork.<br><br>I am passionate about applying my knowledge to solve real-world problems and look forward to furthering my career in engineering. I am actively seeking opportunities to gain practical experience through internships or research projects that will allow me to contribute and grow in the field.
+I am a third-year Engineering Physics student at Instituto Superior Técnico. My academic background has provided me with strong problem-solving and analytical skills, supported by advanced training in mathematics, physics, and engineering.
+
+In parallel with my studies, I have developed a strong interest in software engineering, with a particular focus on web development. I have gained experience working with programming languages such as Python and JavaScript, and have engaged with concepts in algorithms, data structures, and object oriented programming. I also have experience using version control systems such as Git in collaborative and individual development contexts.
+
+Before joining Instituto Superior Técnico, I graduated with honors from Colégio Vasco da Gama, where I consistently ranked among the top students. I was recognized with the Merit Diploma, Excellence Board (Diploma de Mérito, Quadro de Excelência) for my exceptional academic performance, maintaining a GPA of 19.5/20. My high school years provided me with a strong academic foundation in mathematics, physics, and engineering, as well as valuable experiences in leadership and teamwork.
+
+I am passionate about applying my knowledge to solve real-world problems and look forward to furthering my career in software engineering. I am actively seeking opportunities to gain practical experience through internships or research projects that will allow me to contribute and grow in the field.
 
 * ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com)
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmendes-bm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmendes.bm@gmail.com)
 
 <br><br>

@@ -1,11 +1,11 @@
 # About Me:
 I am a third-year Engineering Physics student at Instituto Superior Técnico. My academic background has provided me with strong problem-solving and analytical skills, supported by advanced training in mathematics, physics, and engineering.
 
-In parallel with my studies, I have developed a strong interest in software engineering, with a particular focus on web development. I have gained experience working with programming languages such as Python and JavaScript, and have engaged with concepts in algorithms, data structures, and object oriented programming. I also have experience using version control systems such as Git in collaborative and individual development contexts.
+Alongside my studies, I have developed an interest in software engineering, particularly in web development. I have experience with Python and JavaScript, and a working understanding of algorithms, data structures, and object-oriented programming. I'm familiar with version control using Git in both solo and collaborative projects.
 
-Before joining Instituto Superior Técnico, I graduated with honors from Colégio Vasco da Gama, where I consistently ranked among the top students. I was recognized with the Merit Diploma, Excellence Board (Diploma de Mérito, Quadro de Excelência) for my exceptional academic performance, maintaining a GPA of 19.5/20. My high school years provided me with a strong academic foundation in mathematics, physics, and engineering, as well as valuable experiences in leadership and teamwork.
+Before university, I graduated with a GPA of 19.5/20 from Colégio Vasco da Gama, earning multiple academic distinctions.
 
-I am passionate about applying my knowledge to solve real-world problems and look forward to furthering my career in software engineering. I am actively seeking opportunities to gain practical experience through internships or research projects that will allow me to contribute and grow in the field.
+I am currently looking for internship or research opportunities in software engineering to apply and deepen my skills in a practical context.
 
 * ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com)
 

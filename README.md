@@ -3,6 +3,8 @@ I am a third-year Engineering Physics student at Instituto Superior Técnico. My
 
 Alongside my studies, I have developed an interest in software engineering, particularly in web development. I have experience with Python and JavaScript, and a working understanding of algorithms, data structures, and object-oriented programming. I'm familiar with version control using Git in both solo and collaborative projects.
 
+In summer 2025, I will be joining Intapp as a Software Engineering Intern in their Lisbon office. I am excited to apply what I have learned in a professional setting and contribute to real-world software projects.
+
 Before university, I graduated with a GPA of 19.5/20 from Colégio Vasco da Gama, earning multiple academic distinctions.
 
 I am currently looking for internship or research opportunities in software engineering to apply and deepen my skills in a practical context.

@@ -1,15 +1,12 @@
 # About Me:
-I am a third-year Engineering Physics student at Instituto Superior Técnico. My academic background has provided me with strong problem-solving and analytical skills, supported by advanced training in mathematics, physics, and engineering.
+I’m a final-year Bachelor's student in Engineering Physics student at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
-Alongside my studies, I have developed an interest in software engineering, particularly in web development. I have experience with Python and JavaScript, and a working understanding of algorithms, data structures, and object-oriented programming. I'm familiar with version control using Git in both solo and collaborative projects.
+This summer, I am interning as a Software Engineer at Intapp, contributing to internal tools used by engineering teams. I have been working with technologies such as React, TypeScript, and Docker, and continue to build on my experience through independent projects.
 
-In summer 2025, I will be joining Intapp as a Software Engineering Intern in their Lisbon office. I am excited to apply what I have learned in a professional setting and contribute to real-world software projects.
-
-Before university, I graduated with a GPA of 19.5/20 from Colégio Vasco da Gama, earning multiple academic distinctions.
-
-I am currently looking for internship or research opportunities in software engineering to apply and deepen my skills in a practical context.
+I am currently looking for software engineering internships or full-time opportunities where I can contribute, grow, and learn from experienced teams.
 
 * ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com)
+
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmendes-bm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmendes.bm@gmail.com)

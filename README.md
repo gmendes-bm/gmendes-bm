@@ -1,5 +1,5 @@
 # About Me:
-I’m a final-year Bachelor's student in Engineering Physics student at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
+I'm a final-year Bachelor's student in Engineering Physics student at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
 This summer, I am interning as a Software Engineer at Intapp, contributing to internal tools used by engineering teams. I have been working with technologies such as React, TypeScript, and Docker, and continue to build on my experience through independent projects.
 

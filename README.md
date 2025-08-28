@@ -1,7 +1,7 @@
 # About Me:
 I'm a final-year Bachelor's student in Engineering Physics student at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
-This summer, I am interning as a Software Engineer at Intapp, contributing to internal tools used by engineering teams. I have been working with technologies such as React, TypeScript, and Docker, and continue to build on my experience through independent projects.
+In summer 2025, I completed a Software Engineering internship at Intapp, where I built a Service Catalog with React and TypeScript, engineered a Python RAG agent powered by GPT-4.1 Mini, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.
 
 I am currently looking for software engineering internships or full-time opportunities where I can contribute, grow, and learn from experienced teams.
 

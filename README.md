@@ -2,6 +2,11 @@
 
 I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
+### Education
+-  **Bachelor's Degree in Engineering Physics @ Instituto Superior Técnico**  
+   *GPA: XX.X/20*
+   <!--*GPA: XX.X/20*-->
+
 ### Experience  
 -  **Software Engineering Intern @ Intapp**  
    *Built a Service Catalog with React and TypeScript, engineered a Python RAG agent powered by GPT-4.1 Mini, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*

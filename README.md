@@ -4,7 +4,6 @@ I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior
 
 ### Education
 -  **Bachelor's Degree in Engineering Physics @ Instituto Superior Técnico**  
-   *GPA: XX.X/20*
    <!--*GPA: XX.X/20*-->
 
 ### Experience  

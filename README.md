@@ -1,15 +1,15 @@
+## 👋 Hi, I'm Guilherme Mendes
+
 # About Me:
 I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
-In summer 2025, I completed a Software Engineering internship at Intapp, where I built a Service Catalog with React and TypeScript, engineered a Python RAG agent powered by GPT-4.1 Mini, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.
-
-I am currently looking for software engineering internships or full-time opportunities where I can contribute, grow, and learn from experienced teams.
-
-* ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com)
+### Experience  
+-  **Software Engineering Intern at Intapp**
+   *In summer 2025, I completed a Software Engineering internship at Intapp, where I built a Service Catalog with React and TypeScript, engineered a Python RAG agent powered by GPT-4.1 Mini, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*
 
 
-## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmendes-bm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gmendes.bm@gmail.com)
+* ✉️  Contact me at [gmendes.bm@gmail.com](mailto:gmendes.bm@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmendes-bm) **/gmendes-bm**
+
 
 # 💻 Technical Skills:
 ### Programming Languages
@@ -20,5 +20,6 @@ I am currently looking for software engineering internships or full-time opportu
 
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->

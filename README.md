@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Guilherme Mendes
+## Guilherme Mendes
 
 I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 

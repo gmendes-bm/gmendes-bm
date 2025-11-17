@@ -8,7 +8,7 @@ I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior
 
 ### Experience  
 -  **Software Engineering Intern @ Intapp**  
-   *Built a Service Catalog with React and TypeScript, engineered a Python RAG agent powered by GPT-4.1 Mini, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*
+   *Built a Service Catalog with React and TypeScript, engineered a Python RAG agent, powered by GPT-4.1 Mini, to aid in system design ideation and review, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*
 
 ### Get in Touch  
 :email: [**gmendes.bm@gmail.com**](mailto:gmendes.bm@gmail.com) &nbsp;|&nbsp; ![Linkedin](https://i.sstatic.net/gVE0j.png) [**in/gmendes-bm**](https://linkedin.com/in/gmendes-bm)

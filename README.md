@@ -3,14 +3,21 @@
 I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior Técnico with a strong interest in software engineering, particularly in web development. My background in engineering and mathematics has helped me develop solid problem-solving and analytical skills, which I apply to software projects in my free time.
 
 ### Education
--  **Bachelor's Degree in Engineering Physics Student @ Instituto Superior Técnico**  
+-  **Bachelor's Degree in Engineering Physics Student @ Instituto Superior Técnico** <br>
    <!--*GPA: XX.X/20*-->
 
 ### Experience  
--  **Software Engineering Intern @ Intapp**  
+-  **Software Engineering Intern @ Intapp** <br>
    *Built a Service Catalog with React and TypeScript, engineered a Python RAG agent, powered by GPT-4.1 Mini, to aid in system design ideation and review, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*
 
-### Get in Touch  
+### Projects
+- **AI-Powered Visual Search for Marketplaces** <!--([Website](#) | [Source Code](#))--> <br>
+  *Engineered a Chrome extension leveraging OpenAI CLIP embeddings to enable image-based product search on Vinted, built a Flask backend to rank listings via cosine similarity, and developed a responsive JavaScript frontend to dynamically render matched products.*
+
+- **Pathfinding Algorithm Visualizer** ([Website](https://gmendes-bm.github.io/maze-solver/) | [Source Code](https://github.com/gmendes-bm/maze-solver)) <br>
+  *Developed an interactive web application to visualize BFS and DFS algorithms with a custom maze generator, implementing real-time animations and dynamic grid updates using JavaScript, HTML, and CSS.*
+
+### Get in Touch
 :email: [**gmendes.bm@gmail.com**](mailto:gmendes.bm@gmail.com) &nbsp;|&nbsp; ![Linkedin](https://i.sstatic.net/gVE0j.png) [**in/gmendes-bm**](https://linkedin.com/in/gmendes-bm)
 
 <br>

@@ -18,7 +18,7 @@ I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior
 - **Pathfinding Algorithm Visualizer** ([Website](https://gmendes-bm.github.io/maze-solver/) | [Source Code](https://github.com/gmendes-bm/maze-solver)) <br>
   *Developed an interactive web application to visualize BFS and DFS algorithms with a custom maze generator, implementing real-time animations and dynamic grid updates using JavaScript, HTML, and CSS.*
 
-### Get in Touch
+### Contact me at
 :email: [**gmendes.bm@gmail.com**](mailto:gmendes.bm@gmail.com) &nbsp;|&nbsp; ![Linkedin](https://i.sstatic.net/gVE0j.png) [**in/gmendes-bm**](https://linkedin.com/in/gmendes-bm)
 
 <br>

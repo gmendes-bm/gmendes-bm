@@ -8,6 +8,9 @@ I'm a final-year Bachelor's student in Engineering Physics at Instituto Superior
    *Coursework: Foundations of Programming (18/20), Introduction to Robotics (18/20), Digital Systems (19/20), Electronics (18/20)*
 
 ### Experience  
+-  **Software Engineering Intern @ Cloudflare** <br>
+   *Joining the Cloudflare Workflows team.*
+   
 -  **Software Engineering Intern @ Intapp** <br>
    *Built a Service Catalog with React and TypeScript, engineered a Python RAG agent, powered by GPT-4.1 Mini, to aid in system design ideation and review, and developed a data pipeline with Python, SQL, and Power BI to provide reliability metrics across internal products.*
 

@@ -11,7 +11,7 @@ I am an Engineering Physics graduate from Instituto Superior Técnico with a str
 
 ### Education
 -  **Bachelor's Degree in Engineering Physics Student @ Instituto Superior Técnico** <br>
-   *GPA: 15.6/20* <br>
+   *GPA: 15.7/20* <br>
    *Coursework: Foundations of Programming (18/20), Introduction to Robotics (18/20), Digital Systems (19/20), Electronics (18/20)*
 
 ### Projects
